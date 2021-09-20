@@ -1,0 +1,72 @@
+.local-img {
+  padding: 10px;
+  width: 300px;
+}
+
+.frase-contador {
+  display: inline-block;
+  font-size: 25px;
+}
+
+#criar-carta {
+  margin: 0px 0px 0px 10px;
+  width: 200px;
+}
+
+#local-area {
+  display: flex;
+  margin: 30px;
+}
+
+.newspaper {
+  background-color: antiquewhite;
+  font-family: Times New Roman, Times, serif;
+  font-weight: 700;
+}
+  
+.magazine1 {
+  background-color: teal;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+  
+.magazine2 {
+  background-image: url('images/pink-pattern.png');
+  color: fuchsia;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+}
+  
+.medium {
+  font-size: 20px;
+  padding: 8px;
+  }
+  
+.big {
+  font-size: 30px;
+  padding: 10px;
+}
+  
+.reallybig {
+  font-size: 40px;
+  padding: 15px;
+}
+  
+.rotateleft {
+  transform: rotate(-5deg);
+}
+  
+.rotateright {
+  transform: rotate(5deg);
+}
+  
+.skewleft {
+  transform: skewX(10deg);
+}
+  
+.skewright {
+  transform: skewX(-10deg);
+}
+  
